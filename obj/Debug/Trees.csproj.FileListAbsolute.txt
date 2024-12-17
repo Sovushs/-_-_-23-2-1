@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Metod's\Metod's\bin\Debug\Metod's.exe.config
+C:\Users\admin\source\repos\Metod's\Metod's\bin\Debug\Metod's.exe
+C:\Users\admin\source\repos\Metod's\Metod's\bin\Debug\Metod's.pdb
+C:\Users\admin\source\repos\Metod's\Metod's\obj\Debug\Trees.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Metod's\Metod's\obj\Debug\Trees.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Metod's\Metod's\obj\Debug\Metod's.exe
+C:\Users\admin\source\repos\Metod's\Metod's\obj\Debug\Metod's.pdb
